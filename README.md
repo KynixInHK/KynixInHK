@@ -2,7 +2,7 @@
 
 <h1 style="color: orange">This is Kynix Chan.</h1>
 
-<h2 style="color: yellow">I come from Hong Kong 🇭🇰. Also lived in Taiwan 🇹🇼. Now I'm a student in Baotuquan Campus, Shandong University in Jinan, China 🇨🇳.</h2>
+<h2 style="color: yellow">I come from Taiwan 🇹🇼. Also lived in Hong Kong 🇭🇰. Now I'm a student in Baotuquan Campus, Shandong University in Jinan, China 🇨🇳.</h2>
 
 <h3 style="color: green">If you are a Chinese speaker, it's my honour to introduce my Chinese name, 陈诺 or 陳諾 in traditional Chinese to you. Feel free to call my Chinese name! I'm glad to hear that!</h3>
 
