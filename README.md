@@ -1,6 +1,6 @@
 <h1 style="color: red">HELLO.</h1>
 
-<h1 style="color: orange">This is Kynix Chan.</h1>
+<h1 style="color: orange">This is Christos Chen.</h1>
 
 <h2 style="color: yellow">From Taiwan, also lived in Hong Kong. Now a student in Baotuquan Campus, Shandong University in Jinan, China.</h2>
 
