@@ -1,8 +1,8 @@
 <h1 style="color: red">HELLO.</h1>
 
-<h1 style="color: orange">This is Christos Chen.</h1>
+<h1 style="color: orange">This is Adrian Chen.</h1>
 
-<h2 style="color: yellow">From Taiwan, also lived in Hong Kong. Now a student in Baotuquan Campus, Shandong University in Jinan, China.</h2>
+<h2 style="color: yellow">Coming from Taiwan. Now a student in Baotuquan Campus, Shandong University in Jinan, China.</h2>
 
 <h3 style="color: green">If you are a Chinese speaker, my Chinese name, 陳諾 or 陈诺 in simplified Chinese may be more fitable for you to call me. I'm glad to hear that!</h3>
 
